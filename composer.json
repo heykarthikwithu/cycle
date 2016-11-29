@@ -1,5 +1,5 @@
 {
   "name": "heykarthikwithu/cycle",
-  "type": "library",
+  "type": "drupal-library",
   "description": "jQuery Cycle Plugin"
 }
